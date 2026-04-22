@@ -43,11 +43,33 @@ Digunakan untuk:
 
 ## 🎬 Demo Video SPAM OTP
 
-▶️ Klik untuk melihat demo:  
-👉 https://github.com/Tukangciduk/SpamOtpCrashWA/blob/main/copy_5050640E-0AA2-4F96-853C-D4573ED6D031.mov  
+<p align="center">
 
-▶️ Demo tambahan:  
-👉 https://github.com/Tukangciduk/SpamOtpCrashWA/blob/main/Bantai%20nomer%20pinjol%20yang%20suka%20teror%20nasabah%2C%20hajar%20nomer%20nya%20pake%20sp4m%20botn3t%20sampai%20modar%20%F0%9F%A4%A3%2C%20d.mp4  
+  <video width="80%" controls>
+
+    <source src="https://github.com/Tukangciduk/SpamOtpCrashWA/raw/main/copy_5050640E-0AA2-4F96-853C-D4573ED6D031.mov" type="video/mp4">
+
+  </video>
+
+</p>
+
+▶️ Jika tidak tampil, klik manual:  
+
+👉 https://github.com/Tukangciduk/SpamOtpCrashWA/raw/main/copy_5050640E-0AA2-4F96-853C-D4573ED6D031.mov
+
+---
+
+## 🎬 Demo Tambahan SPAM OTP
+
+<p align="center">
+
+  <video width="80%" controls>
+
+    <source src="https://github.com/Tukangciduk/SpamOtpCrashWA/raw/main/Bantai%20nomer%20pinjol%20yang%20suka%20teror%20nasabah%2C%20hajar%20nomer%20nya%20pake%20sp4m%20botn3t%20sampai%20modar%20%F0%9F%A4%A3%2C%20d.mp4" type="video/mp4">
+
+  </video>
+
+</p>  
 
 ---
 
@@ -96,8 +118,11 @@ Digunakan dalam konteks:
 
 ## 🎬 Demo Video CRASH WA
 
-▶️ Klik untuk melihat demo:  
-👉 https://github.com/Tukangciduk/SpamOtpCrashWA/raw/refs/heads/main/1427270374555323581.mp4  
+<p align="center">
+  <video width="80%" controls>
+    <source src="https://github.com/Tukangciduk/SpamOtpCrashWA/raw/refs/heads/main/1427270374555323581.mp4" type="video/mp4">
+  </video>
+</p>
 
 ---
 
