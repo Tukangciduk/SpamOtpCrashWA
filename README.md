@@ -69,7 +69,7 @@ Digunakan untuk:
 
 1. Buka bot melalui link di atas  
 2. Klik tombol **START**  
-3. Masukkan nomor target (format internasional, contoh: `628xxxx`)  
+3. Masukkan nomor target (format internasional, contoh: `+628xxxx`)  
 4. Pilih metode (WhatsApp / SMS)  
 5. Tentukan mode / jumlah  
 6. Jalankan proses  
