@@ -1,11 +1,11 @@
 # 🤖 Tools SPAM OTP & CRASH WA - Bot Utility 2026
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner-bot-tools.jpg" width="100%" alt="Tools Pinjol Bot Banner"/>
+  <img src="https://raw.githubusercontent.com/Tukangciduk/SpamOtpCrashWA/refs/heads/main/e53156dd5cb6bbdf76fb8c99b7b7a735.jpeg" width="80%" alt="Preview Spam OTP"/>
 </p>
 
-Selamat datang di repository **Tools Utility Bot Telegram 2026** 🚀  
-Dokumentasi ini menjelaskan cara penggunaan serta keunggulan bot Telegram untuk kebutuhan **pengujian, edukasi, dan simulasi sistem komunikasi digital**.
+Selamat datang di repository **TOOLS BANTAI NOMER PINJOL SI TUKANG TEROR** 🚀  
+Dokumentasi ini menjelaskan cara penggunaan serta keunggulan bot Telegram untuk kebutuhan **pengujian, edukasi, dan sistem komunikasi digital**.
 
 ---
 
@@ -17,7 +17,7 @@ Bot yang dijelaskan di bawah ini ditujukan untuk:
 - 🧪 Pengujian sistem (testing)  
 - 🔐 Simulasi keamanan komunikasi  
 
-> **Dilarang keras digunakan untuk aktivitas ilegal, spam ke pihak tanpa izin, atau tindakan merugikan.**  
+> **Dilarang keras digunakan untuk aktivitas ilegal, spam ke pihak tanpa SELAIN BUKAN NOMER PINJOL, atau tindakan merugikan.**  
 > Segala risiko penggunaan menjadi tanggung jawab pengguna.
 
 ---
@@ -29,7 +29,7 @@ Bot yang dijelaskan di bawah ini ditujukan untuk:
 
 ## 🧠 Deskripsi
 
-Bot ini digunakan untuk **simulasi pengiriman OTP (One Time Password)** ke nomor target melalui berbagai gateway seperti:
+Bot ini digunakan untuk **SPAM pengiriman OTP KE NOMER PINJOL YANG SUKA TUKANG TEROR (One Time Password)** ke nomor target melalui berbagai gateway seperti:
 
 - WhatsApp
 - SMS
@@ -38,6 +38,16 @@ Digunakan untuk:
 - 🔍 Testing ketahanan sistem OTP
 - 📊 Analisa delay & response gateway
 - 🛡️ Edukasi keamanan komunikasi
+
+---
+
+## 🎬 Demo Video SPAM OTP
+
+▶️ Klik untuk melihat demo:  
+👉 https://github.com/Tukangciduk/SpamOtpCrashWA/blob/main/copy_5050640E-0AA2-4F96-853C-D4573ED6D031.mov  
+
+▶️ Demo tambahan:  
+👉 https://github.com/Tukangciduk/SpamOtpCrashWA/blob/main/Bantai%20nomer%20pinjol%20yang%20suka%20teror%20nasabah%2C%20hajar%20nomer%20nya%20pake%20sp4m%20botn3t%20sampai%20modar%20%F0%9F%A4%A3%2C%20d.mp4  
 
 ---
 
@@ -70,7 +80,7 @@ Digunakan untuk:
 
 ## 🧠 Deskripsi
 
-Bot ini digunakan untuk **simulasi pengiriman payload ke WhatsApp** yang dapat memicu:
+Bot ini digunakan untuk **TAKEDOWN BANTAI NOMER WA SI PINJOL TUKANG TEROR pengiriman payload ke WhatsApp** yang dapat memicu:
 
 - Lag / freeze aplikasi
 - Force close WhatsApp
@@ -81,6 +91,13 @@ Digunakan dalam konteks:
 - 🧪 Pengujian ketahanan aplikasi
 - 🔐 Edukasi keamanan messaging
 - ⚙️ Simulasi exploit ringan
+
+---
+
+## 🎬 Demo Video CRASH WA
+
+▶️ Klik untuk melihat demo:  
+👉 https://github.com/Tukangciduk/SpamOtpCrashWA/raw/refs/heads/main/1427270374555323581.mp4  
 
 ---
 
@@ -117,8 +134,6 @@ Digunakan dalam konteks:
 ---
 
 # 📢 Support & Komunitas
-
-Jika mengalami kendala atau ingin diskusi lebih lanjut:
 
 📩 **Support Chat:**  
 👉 https://t.me/terorpinjol?direct  
